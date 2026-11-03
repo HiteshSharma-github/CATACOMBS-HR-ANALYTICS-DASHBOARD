@@ -1,4 +1,4 @@
-# Project Title
+# CATACOMBS DASHBOARD
 
 # HR Analytics: End-to-End Workforce Insights & Analytics
 
@@ -10,9 +10,16 @@ The solution is built around three core business areas:
 * **Retention & Attrition** — identifying where employees leave, why they leave, and when attrition is highest.
 * **Employee Performance** — monitoring workforce performance, identifying high and low performers, and tracking performance trends over time.
 
-> **Data note:** 2025 data is partial and available only through August 2025. Therefore, 2025 trends should not be directly compared with full-year totals from previous years without considering the shorter reporting period.
+DATABSE LINK-  https://drive.google.com/drive/folders/1-wUgInwLSsXxNQc1G41B9Mg_Nm8fi_em?usp=sharing
 
----
+
+> **Data note:** 2025 data is partial and available only through August 2025. Therefore, 2025 trends should not be directly compared with full-year totals from previous years without considering the shorter reporting period.
+<img width="1055" height="544" alt="overview" src="https://github.com/user-attachments/assets/1a3fa86e-d058-4457-9f30-047b213c2fc3" />
+<br>
+<img width="1141" height="639" alt="retention_attrition_rate" src="https://github.com/user-attachments/assets/ebdc2367-6396-4c1f-8926-1d16d9f3a8e5" />
+<img width="1186" height="596" alt="recruitment_hiring_dashboard" src="https://github.com/user-attachments/assets/f46b0944-f384-4bcd-b0eb-6c0a18c2c703" />
+<img width="1138" height="606" alt="performance_dashboard" src="https://github.com/user-attachments/assets/7a8cb1e2-d1ad-4f70-815c-0091a996d096" />
+
 
 ## Business Problem
 
@@ -763,8 +770,8 @@ HR-Analytics-end-to-end-project/
 
 # Author
 
-**Vikash Giri**
-**Data Analyst**
+**HITESH SHARMA**
+
 
 **Skills:** SQL | MySQL | Power BI | DAX | Power Query | Advanced Excel
 "# CATACOMBS-HR-ANALYTICS-DASHBOARD" 
